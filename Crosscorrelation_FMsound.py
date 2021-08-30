@@ -1,3 +1,5 @@
+#2021/8/30 22:00
+#kanta crate CrossCorrelation_FMsound
 import math
 from os import fsdecode
 from matplotlib import scale 
